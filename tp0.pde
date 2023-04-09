@@ -5,7 +5,6 @@ size (800, 400);
 background( 156, 219, 234);
 paisaje = loadImage ("paisaje4.jpg");
 image (paisaje, 0, 0, 400, 400);
-image (grilla, 0, 0, 400, 400);
 strokeWeight(0);
 fill(242, 235, 235);
 quad (400,0, 800, 120, 500, 100, 800, 0);
